@@ -1,0 +1,672 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 13050,
+      "max": [
+        26.03794288635254,
+        10.479711532592773,
+        40.715728759765625
+      ],
+      "min": [
+        -4.658942222595215,
+        -17.802736282348633,
+        -0.20104478299617767
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 156600,
+      "componentType": 5126,
+      "count": 13050,
+      "max": [
+        0.9999999403953552,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 13050,
+      "max": [
+        24.39756965637207,
+        17.802734375
+      ],
+      "min": [
+        -19.13597297668457,
+        -27.28927230834961
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 42492,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 313200,
+      "componentType": 5126,
+      "count": 4241,
+      "max": [
+        8.473962783813477,
+        4.368880748748779,
+        6.546327114105225
+      ],
+      "min": [
+        -1.8515015840530396,
+        -16.15450096130371,
+        1.1526174545288086
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 364092,
+      "componentType": 5126,
+      "count": 4241,
+      "max": [
+        0.8744032382965088,
+        1.0,
+        0.7224610447883606
+      ],
+      "min": [
+        -0.8763061761856079,
+        -0.9999982118606567,
+        -0.7224609851837158
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 104400,
+      "componentType": 5126,
+      "count": 4241,
+      "max": [
+        3.929236888885498,
+        3.320927858352661
+      ],
+      "min": [
+        -3.929236888885498,
+        -25.004220962524414
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 169968,
+      "componentType": 5125,
+      "count": 19614,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 414984,
+      "componentType": 5126,
+      "count": 595,
+      "max": [
+        5.753271579742432,
+        2.4273648262023926,
+        4.246560573577881
+      ],
+      "min": [
+        0.6725333333015442,
+        -14.338627815246582,
+        3.590392827987671
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 422124,
+      "componentType": 5126,
+      "count": 595,
+      "max": [
+        0.9659635424613953,
+        0.2588687837123871,
+        1.0
+      ],
+      "min": [
+        -0.9659295678138733,
+        -0.9659309983253479,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 138328,
+      "componentType": 5126,
+      "count": 595,
+      "max": [
+        2.0614125728607178,
+        17.18161392211914
+      ],
+      "min": [
+        -0.16404199600219727,
+        -1.2351231148954867e-15
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 248424,
+      "componentType": 5125,
+      "count": 3216,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 429264,
+      "componentType": 5126,
+      "count": 508,
+      "max": [
+        1.4741986989974976,
+        2.4009311199188232,
+        39.66719055175781
+      ],
+      "min": [
+        -4.658942222595215,
+        -16.536216735839844,
+        38.48609161376953
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 435360,
+      "componentType": 5126,
+      "count": 508,
+      "max": [
+        0.9660279154777527,
+        0.25883662700653076,
+        1.0
+      ],
+      "min": [
+        -0.9659333825111389,
+        -0.25918811559677124,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 143088,
+      "componentType": 5126,
+      "count": 508,
+      "max": [
+        19.2887020111084,
+        1.9032429456710815
+      ],
+      "min": [
+        -7.771561172376096e-16,
+        -1.8072997331619263
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 261288,
+      "componentType": 5125,
+      "count": 2730,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 441456,
+      "componentType": 5126,
+      "count": 2075,
+      "max": [
+        25.058446884155273,
+        9.51036262512207,
+        41.111637115478516
+      ],
+      "min": [
+        -5.141806125640869,
+        -17.89496421813965,
+        38.28714370727539
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 466356,
+      "componentType": 5126,
+      "count": 2075,
+      "max": [
+        0.9999916553497314,
+        0.9994854927062988,
+        1.0
+      ],
+      "min": [
+        -0.9745758175849915,
+        -0.9659387469291687,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 147152,
+      "componentType": 5126,
+      "count": 2075,
+      "max": [
+        14.610424041748047,
+        13.711427688598633
+      ],
+      "min": [
+        -14.825942993164063,
+        -13.488113403320313
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 272208,
+      "componentType": 5125,
+      "count": 6498,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 491256,
+      "componentType": 5126,
+      "count": 34893,
+      "max": [
+        9.78162670135498,
+        4.492928504943848,
+        8.005280494689941
+      ],
+      "min": [
+        -3.1408464908599854,
+        -16.290746688842773,
+        -0.3063361346721649
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 909972,
+      "componentType": 5126,
+      "count": 34893,
+      "max": [
+        0.9998810887336731,
+        0.9961939454078674,
+        1.0
+      ],
+      "min": [
+        -0.9999577403068542,
+        -0.9999140501022339,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 163752,
+      "componentType": 5126,
+      "count": 34893,
+      "max": [
+        4.2967610359191895,
+        0.648554801940918
+      ],
+      "min": [
+        -4.2967610359191895,
+        -27.486183166503906
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 298200,
+      "componentType": 5125,
+      "count": 198549,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Conception3D (https://sketchfab.com/Conception3D)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/poubelle-8d03ed9a0dfb41fa9e17065f5aaef28f",
+      "title": "Poubelle"
+    },
+    "generator": "Sketchfab-15.58.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1092396,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 442896,
+      "byteOffset": 1092396,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1328688,
+      "byteOffset": 1535292,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 2863980,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "couleur_princeipale",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0015079724314814602,
+          0.2931498687683444,
+          0.01023124995852208,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.021138973474615685
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "jante",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.157306,
+          0.157306,
+          0.157306,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.002908762368771023
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "tige",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.8,
+          0.8,
+          1.0
+        ],
+        "roughnessFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "manche",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0713655230212512,
+          0.0713655230212512,
+          0.0713655230212512,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "couvercle",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6848273504262461,
+          0.43182786599281664,
+          0.004013911604096569,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.11836676603912022
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "roue",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.00359093,
+          0.00359093,
+          0.00359093,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6227359399674877
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "poubelle poubelle [261878]_couleur princeipale_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "poubelle poubelle [261878]_jante_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "poubelle poubelle [261878]_tige_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "poubelle poubelle [261878]_manche_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "poubelle poubelle [261878]_couvercle_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 17,
+            "POSITION": 16,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "poubelle poubelle [261878]_roue_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 21,
+            "POSITION": 20,
+            "TEXCOORD_0": 22
+          },
+          "indices": 23,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "9ae3b591f7e247afbbf5cd2b33604887.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "matrix": [
+        -1.9616623214668512,
+        4.781364535536679e-16,
+        2.0964670016208866,
+        0.0,
+        2.096467001620885,
+        -1.255003631698715e-07,
+        1.961662321466849,
+        0.0,
+        9.163948685647765e-08,
+        2.8711135387420628,
+        8.574698595727096e-08,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "poubelle poubelle [261878]"
+    },
+    {
+      "mesh": 0,
+      "name": "poubelle poubelle [261878]_couleur princeipale_0"
+    },
+    {
+      "mesh": 1,
+      "name": "poubelle poubelle [261878]_jante_0"
+    },
+    {
+      "mesh": 2,
+      "name": "poubelle poubelle [261878]_tige_0"
+    },
+    {
+      "mesh": 3,
+      "name": "poubelle poubelle [261878]_manche_0"
+    },
+    {
+      "mesh": 4,
+      "name": "poubelle poubelle [261878]_couvercle_0"
+    },
+    {
+      "mesh": 5,
+      "name": "poubelle poubelle [261878]_roue_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
